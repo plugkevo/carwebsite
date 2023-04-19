@@ -1,0 +1,11 @@
+.banner{
+    position: relative;
+    width: 90%;
+    margin:0 auto;
+    
+}
+.description{
+    position: absolute;
+    width: 50%;
+    margin-top: 3cm;
+}
